@@ -64,3 +64,16 @@ To run this project locally, follow these steps:
 1. **Clone the repository**:
    ```sh
    git clone https://github.com/parvejprv/parvejprv.github.io.git
+
+   ```
+
+## Contact
+
+If you have any any questions or would like to get in touch, please feel free to contact me:
+
+Email: [parvejprv1@gmail.com]
+LinkedIn: [Connet with me] (https://www.linkedin.com/in/parvejprv1/)
+GitHub: [https://parvejprv.github.com/] (https://parvejprv.github.com/)
+Website: [Personal website] (https://parvejprv.github.io/)
+
+Thank you for visiting my portfolio!
