@@ -71,9 +71,9 @@ To run this project locally, follow these steps:
 
 If you have any any questions or would like to get in touch, please feel free to contact me:
 
-Email: [parvejprv1@gmail.com]
-LinkedIn: [Connet with me] (https://www.linkedin.com/in/parvejprv1/)
-GitHub: [https://parvejprv.github.com/] (https://parvejprv.github.com/)
-Website: [Personal website] (https://parvejprv.github.io/)
+- **Email**: [parvejprv1@gmail.com](mailto:parvejprv1@gmail.com)
+- **LinkedIn**: [Connet with me](https://www.linkedin.com/in/parvejprv1/)
+- **GitHub**: [https://github.com/parvejprv](https://github.com/parvejprv/)
+- **Website**: [https://parvejprv.github.io](https://parvejprv.github.io/)
 
 Thank you for visiting my portfolio!
