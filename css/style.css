@@ -638,3 +638,9 @@ b , strong {
     vertical-align: top;
   }
 }
+
+
+#success-message p {
+  font-size: 20px;
+  color: green;
+}

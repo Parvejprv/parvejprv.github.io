@@ -56,3 +56,5 @@ function handleForm(event) {
     alert(error);
   })
 }
+
+document.querySelector("form").addEventListener("submit", handleForm);
