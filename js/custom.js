@@ -37,3 +37,22 @@
   // TOOLTIP
   $(".social-links a").tooltip();
 })(jQuery);
+
+
+
+function handleForm(event) {
+  event.preventDefault();
+  const form = event.target;
+  fetch("/", {
+    method: "POST",
+    headers: {"Content-Type": "application/x-www-form-urlencoded" },
+    body: new URLSearchParams(new FormData(form)).toString()
+  })
+  .then(() => {
+    document.getElementById('success-message').style.display = 'block';
+    form.reset();
+  })
+  .catch((error) => {
+    alert(error);
+  })
+}
